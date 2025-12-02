@@ -1,4 +1,5 @@
 import day01_test as _
+import day02_test as _
 
 import gleeunit
 
